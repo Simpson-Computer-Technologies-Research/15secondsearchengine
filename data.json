@@ -1,0 +1,30 @@
+[
+  {
+    "url": {
+      "$hermes.full_text": true,
+      "$hermes.value": "https://github.com/realTristan/Hermes"
+    },
+    "title": {
+      "$hermes.full_text": true,
+      "$hermes.value": "Hermes"
+    },
+    "description": {
+      "$hermes.full_text": true,
+      "$hermes.value": "Hermes is an extremely fast full-text search algorithm and caching system written in Go. It's designed for API implementations which can be used by wrappers in other languages. Hermes has two notable algorithms. The first being the with-cache algorithm. When using the with-cache algorithm, you can set, get, store, etc. keys and values into the cache. The second being a no-cache algorithm that reads data from a map, or json file, and uses and array to store the data. Both of these algorithms provide full-text search query times from 10µs to 300µs."
+    }
+  },
+  {
+    "url": {
+      "$hermes.full_text": true,
+      "$hermes.value": "https://github.com/realTristan"
+    },
+    "title": {
+      "$hermes.full_text": true,
+      "$hermes.value": "realTristan"
+    },
+    "description": {
+      "$hermes.full_text": true,
+      "$hermes.value": "realTristan Github Profile"
+    }
+  }
+]
